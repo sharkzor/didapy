@@ -31,3 +31,5 @@ while keuze != computer_number and tries > 0:
     tries-=1
 
 print("Helaas. uw kansen zijn op \nHet getal was " + str(computer_number))
+
+#test
